@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.Navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo {
+    top: 15px;
+}
+
+.links ul {
+    display: flex;
+    list-style: none;
+    gap: 24px;
+}
+
+.button {
+    padding: 6px 16px 6px 16px;
+    background-color: #D01C28;
+    top: 102px;
+    border: none;
+}
+
+.hero {
+    width: 1125px;
+    height: 613px;
+    margin-top: 152px;
+    margin-left: 157px;
+}
+
+.content {
+    width: 595px;
+    height: 613px;
+    gap: 36px;
+}
+
+.ucontent {
+    font-family: "Poppins";
+    font-weight: 800;
+    font-size: 108px;
+    line-height: 102px;
+    width: 595px;
+    height: 306px;
+}
+.mcontent{
+    margin-top: 40px;
+    width: 404px;
+    height: 91px;
+    line-height: 24px;
+}
+.but{
+    display: flex;
+    width: 331px;
+    height: 41px;
+    gap: 40px;
+    margin-top: 25px;
+}
+.shop{
+    width: 150px;
+    height: 41px;
+    padding: 6px 16px 6px 16px;
+    background-color: #D01C28;
+    color: white;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29.05px;
+    border: none;
+}
+.cate{
+    font-family: "Inter", sans-serif;
+    width: 141px;
+    height: 41px;
+    padding: 6px 16px 6px 16px;
+    line-height: 29.05px;
+    font-weight: 600;
+    font-size: 24px;
+    color: #5A5959;
+    background-color: white;
+}
+.bcontent{
+    margin-top: 25px;
+    width: 131px;
+    height: 67px;
+    gap: 16px;
+}
+.img{
+    width: 80px;
+    height: 32px;
+    display: flex;
+    gap: 16px;
+    margin-top: 20px;
+}
+.shoe{
+    width: 530px;
+    height: 487.06px;
+    margin: -540px 0px 300px 593px; 
+}
